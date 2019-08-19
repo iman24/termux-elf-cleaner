@@ -13,7 +13,7 @@ Apabila menjalankan sebuah file ELF, android linker akan menampilkan tentang per
 # penggunaan
 
 ```
-apt install make clangn -y
+apt install make clang -y
 ```
 
 kemudian lanjutkan dengan perintah
